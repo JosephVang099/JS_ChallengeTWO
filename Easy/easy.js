@@ -21,5 +21,8 @@ const student = [
 //for statement creates a loop that consists of three optional expression
 // example on mdn for: (let i = 0; i < 9; i++) { str = str + i;}
 // for(var i = 0; i < student; i++) 
+
+
 console.log( `Hello, my name is ${student[0].firstname} ${student[0].lastname} and I'm ${student[0].age} years old`
 );
+// Change [#] to 1,2 to change the name
